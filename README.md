@@ -29,7 +29,11 @@ Publish the website in the given URL.
 
 ## DESIGN:
 
+Event Registration
+
 ## PROGRAM :
+Code
+
 ```
 /* Home Page */
 position: relative;
@@ -145,10 +149,9 @@ background: url(Logo.png);
 ```
 
 ## OUTPUT:
-![output](./homepage.png)
-![output](./loginpage.png)
-![output](./secpage.png)
-
+![output](hp.png)
+![output](lp.png)
+![output](sp.png)
 ## Result:
 
 The program to design, develop and deploy a web application for event registration is completed successfully.
