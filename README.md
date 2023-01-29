@@ -149,9 +149,12 @@ background: url(Logo.png);
 ```
 
 ## OUTPUT:
-![output](hp.png)
-![output](lp.png)
-![output](sp.png)
+![hp](https://user-images.githubusercontent.com/119560192/215318825-b022a27c-1a84-49f1-ab0f-192c789c8093.png)
+
+![lp](https://user-images.githubusercontent.com/119560192/215318849-5713d5d7-3635-4116-b4f6-0538919a60ac.png)
+
+![sp](https://user-images.githubusercontent.com/119560192/215318869-4185e82b-5eb4-4e10-b6d1-cf6cdc872005.png)
+
 ## Result:
 
 The program to design, develop and deploy a web application for event registration is completed successfully.
